@@ -1,0 +1,35 @@
+﻿# Java build files
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+*.log
+*.tmp
+*.out
+
+# Build directories
+bin/
+target/
+out/
+build/
+
+# IDE directories and files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+.settings/
+
+# other
+*.class

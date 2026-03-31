@@ -1,0 +1,1 @@
+ // System.out.println(alien1); // Output: Alien{id=1, name='Alien One'}
